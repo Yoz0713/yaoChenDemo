@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_2" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1290.59 137.86">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ddbd9f;
+        font-family: MinionVariableConcept-Roman, 'Minion Variable Concept';
+        font-size: 32px;
+        font-variation-settings: 'wght'400, 'opsz'11;
+        letter-spacing: .05em;
+      }
+
+      .cls-2 {
+        font-family: MicrosoftJhengHeiRegular, 'Microsoft JhengHei';
+        font-size: 14px;
+        letter-spacing: .1em;
+      }
+
+      .cls-2,
+      .cls-3 {
+        fill: #c69c6d;
+      }
+
+      .cls-4,
+      .cls-5 {
+        fill: none;
+        stroke: #c69c6d;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        stroke-width: .75px;
+      }
+
+      .cls-3 {
+        font-family: NotoSerifTC-Medium-90ms-RKSJ-H, 'Noto Serif TC';
+        font-size: 18px;
+        letter-spacing: .1em;
+      }
+    </style>
+  </defs>
+  <g id="_圖層_1-2" data-name="圖層 1">
+    <g>
+      <line class="cls-5" x1="1075" y1="70.5" x2="1153" y2="70.5" />
+      <line class="cls-5" x1="860" y1="70.5" x2="938.37" y2="70.5" />
+      <line class="cls-5" x1="645" y1="70.5" x2="723.37" y2="70.5" />
+      <line class="cls-5" x1="430" y1="70.5" x2="508.37" y2="70.5" />
+      <line class="cls-5" x1="215.23" y1="70.5" x2="293.6" y2="70.5" />
+      <line class="cls-5" y1="70.5" x2="78.37" y2="70.5" />
+      <circle class="cls-4" cx="147.14" cy="68.93" r="68.43" />
+      <text class="cls-3" transform="translate(128.24 45.1)">
+        <tspan x="0" y="0">板橋</tspan>
+      </text>
+      <text class="cls-2" transform="translate(121.09 111.1)">
+        <tspan x="0" y="0">萬元/坪</tspan>
+      </text>
+      <text class="cls-1" transform="translate(107.61 83.1)">
+        <tspan x="0" y="0">70-75</tspan>
+      </text>
+      <circle class="cls-4" cx="361.14" cy="68.93" r="68.43" />
+      <text class="cls-3" transform="translate(342.35 45.1)">
+        <tspan x="0" y="0">西門</tspan>
+      </text>
+      <text class="cls-2" transform="translate(335.08 111.1)">
+        <tspan x="0" y="0">萬元/坪</tspan>
+      </text>
+      <text class="cls-1" transform="translate(321.51 83.1)">
+        <tspan x="0" y="0">62-70</tspan>
+      </text>
+      <circle class="cls-4" cx="576.82" cy="68.93" r="68.43" />
+      <text class="cls-3" transform="translate(537.65 45.1)">
+        <tspan x="0" y="0">台北車站</tspan>
+      </text>
+      <text class="cls-2" transform="translate(550.76 111.1)">
+        <tspan x="0" y="0">萬元/坪</tspan>
+      </text>
+      <text class="cls-1" transform="translate(528.85 83.1)">
+        <tspan x="0" y="0">90-135</tspan>
+      </text>
+      <circle class="cls-4" cx="791.63" cy="68.93" r="68.43" />
+      <text class="cls-3" transform="translate(752.6 45.1)">
+        <tspan x="0" y="0">忠孝復興</tspan>
+      </text>
+      <text class="cls-2" transform="translate(765.58 111.1)">
+        <tspan x="0" y="0">萬元/坪</tspan>
+      </text>
+      <text class="cls-1" transform="translate(731.27 83.1)">
+        <tspan x="0" y="0">115-165</tspan>
+      </text>
+      <circle class="cls-4" cx="1006.73" cy="68.93" r="68.43" />
+      <text class="cls-3" transform="translate(977.91 45.1)">
+        <tspan x="0" y="0">市政府</tspan>
+      </text>
+      <text class="cls-2" transform="translate(980.68 111.1)">
+        <tspan x="0" y="0">萬元/坪</tspan>
+      </text>
+      <text class="cls-1" transform="translate(958.77 83.1)">
+        <tspan x="0" y="0">95-125</tspan>
+      </text>
+      <circle class="cls-4" cx="1221.66" cy="68.93" r="68.43" />
+      <text class="cls-3" transform="translate(1202.49 45.1)">
+        <tspan x="0" y="0">南港</tspan>
+      </text>
+      <text class="cls-2" transform="translate(1195.61 111.1)">
+        <tspan x="0" y="0">萬元/坪</tspan>
+      </text>
+      <text class="cls-1" transform="translate(1173.31 83.1)">
+        <tspan x="0" y="0">75-100</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

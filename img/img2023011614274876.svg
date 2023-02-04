@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_2" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 643.82 707.95">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_未命名漸層_57-4);
+      }
+
+      .cls-2 {
+        fill: url(#_未命名漸層_57-3);
+      }
+
+      .cls-3 {
+        fill: url(#_未命名漸層_57);
+      }
+
+      .cls-4 {
+        fill: url(#_未命名漸層_57-5);
+      }
+
+      .cls-5 {
+        fill: url(#_未命名漸層_57-6);
+      }
+
+      .cls-6 {
+        fill: url(#_未命名漸層_57-2);
+      }
+
+      .cls-7 {
+        fill: url(#_未命名漸層_57-7);
+      }
+    </style>
+    <linearGradient id="_未命名漸層_57" data-name="未命名漸層 57" x1="322.62" y1="202.43" x2="322.62" y2="2.73" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#95663e"/>
+      <stop offset=".2" stop-color="#f3d287"/>
+      <stop offset=".72" stop-color="#95663e"/>
+      <stop offset="1" stop-color="#95663e" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="_未命名漸層_57-2" data-name="未命名漸層 57" x1="521.65" y1="225.15" x2="788.75" y2="225.15" gradientTransform="translate(792.62) rotate(-180) scale(1 -1)" xlink:href="#_未命名漸層_57"/>
+    <linearGradient id="_未命名漸層_57-3" data-name="未命名漸層 57" x1="916.87" y1="225.55" x2="1182.2" y2="225.55" gradientTransform="translate(-542.22)" xlink:href="#_未命名漸層_57"/>
+    <linearGradient id="_未命名漸層_57-4" data-name="未命名漸層 57" x1="520.28" y1="477.45" x2="788.73" y2="477.45" gradientTransform="translate(792.62) rotate(-180) scale(1 -1)" xlink:href="#_未命名漸層_57"/>
+    <linearGradient id="_未命名漸層_57-5" data-name="未命名漸層 57" x1="918.09" y1="477.45" x2="1181.29" y2="477.45" gradientTransform="translate(-542.22)" xlink:href="#_未命名漸層_57"/>
+    <linearGradient id="_未命名漸層_57-6" data-name="未命名漸層 57" x1="323.33" y1="564.35" x2="323.33" y2="364.66" gradientTransform="translate(0 811.87) scale(1 -1)" xlink:href="#_未命名漸層_57"/>
+    <linearGradient id="_未命名漸層_57-7" data-name="未命名漸層 57" x1="324.05" y1="306.34" x2="324.05" y2="106.64" gradientTransform="translate(0 811.87) scale(1 -1)" xlink:href="#_未命名漸層_57"/>
+  </defs>
+  <g id="_圖層_1-2" data-name="圖層 1">
+    <g>
+      <rect class="cls-3" x="321.91" width="1.43" height="202.67"/>
+      <path class="cls-6" d="M0,224.44H270.97v1.43H0v-1.43Zm.94,.71H270.02S.94,225.15,.94,225.15Z"/>
+      <path class="cls-2" d="M643.82,225.86H374.65s0-.63,0-.63h269.17s0,.63,0,.63Zm-268.24-.32h267.3s-267.3,0-267.3,0Z"/>
+      <path class="cls-1" d="M0,476.74H272.34v1.43H0v-1.43Zm.95,.71H271.39S.95,477.45,.95,477.45Z"/>
+      <path class="cls-4" d="M642.88,478.16H375.87s0-1.43,0-1.43h267.01s0,1.43,0,1.43Zm-266.08-.71h265.15s-265.15,0-265.15,0Z"/>
+      <rect class="cls-5" x="322.62" y="247.27" width="1.43" height="202.67"/>
+      <rect class="cls-7" x="323.33" y="505.28" width="1.43" height="202.67"/>
+    </g>
+  </g>
+</svg>
