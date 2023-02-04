@@ -249,15 +249,32 @@
       filter: brightness(0.3) grayscale(100%);
     }
 
-    .first-page-bg img {
-      width: 100%;
-      height: 100%;
-      -o-object-fit: cover;
-      object-fit: cover;
-      -o-object-position: center top;
-      object-position: center top;
-      transform: scale(1.25);
-      filter: brightness(0.3);
+
+
+    .first-page-bg .audio {
+      position: absolute;
+      right: 5vw;
+      bottom: 5vw;
+      z-index: 20;
+      cursor: pointer;
+    }
+
+    .first-page-bg .audio :nth-child(2) {
+      display: none;
+    }
+
+    .first-page-bg .audio img {
+      width: 40px;
+      height: 40px;
+      pointer-events: none;
+    }
+
+    .first-page-bg .is-active :nth-child(1) {
+      display: none;
+    }
+
+    .first-page-bg .is-active :nth-child(2) {
+      display: block;
     }
 
     .first-page-title {
@@ -3272,8 +3289,13 @@
 
       <div id="ot2023010414544223" class="col-md-12 section">
         <section class="first-page">
-          <div class="first-page-bg"><video src="./video/first-page-bg.mp4" autoplay="" class="glowing" loop="" muted=""
-              playsinline="true"></video></div>
+          <div class="first-page-bg"><video src="./video/first-page-bg-compress.mp4" autoplay="" class="glowing" loop=""
+              muted="" playsinline="true"></video>
+            <div class="audio">
+              <img src="./img/audioOff.svg">
+              <img src="./img/audioOn.svg">
+            </div>
+          </div>
 
           <div class="first-page-title">
             <div class="title1"><img src="img/img2023011613034120.svg" /></div>
@@ -4246,14 +4268,14 @@
     window.onload = function () {
       let video = document.querySelector(".first-page-bg video");
 
-      let pp = new Promise((resolve, reject) => {
-        video.play()
-        setTimeout(() => {
-          resolve()
-        }, 300)
+      $(".first-page-bg .audio").click(() => {
+        if ($(".first-page-bg .audio").hasClass("is-active")) {
+          video.muted = true;
+        } else {
+          video.muted = false;
+        }
 
-      }).then(() => {
-        video.muted = false;
+        $(".first-page-bg .audio").toggleClass("is-active")
       })
       function createGlow() {
 
